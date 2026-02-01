@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently working on a **Hospital Management System** built using **Spring Boot** and **Angular**.  
+💫 About Me
+
+I have completed my **BCA** (Bachelor of Computer Applications) and Java FullStack Development Course. I am currently working on a **Hospital Management System** developed using Spring Boot,Hibernate,TypeScript and Angular. I have a strong interest in Java Full Stack Development and enjoy building practical, real-world applications. I am continuously improving my skills in backend development, REST APIs, and database management, and I am looking for an opportunity to start my career as a Java / Full Stack Developer.
 I am passionate about backend and full-stack development and enjoy building real-world applications.
 
 ---
