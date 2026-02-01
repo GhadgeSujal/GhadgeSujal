@@ -1,13 +1,28 @@
 # 💫 About Me:
-💫 About Me
+# 💫 About Me
 
-I have completed my **BCA** (Bachelor of Computer Applications) and Java FullStack Development Course. I am currently working on a **Hospital Management System** developed using Spring Boot,Hibernate,TypeScript and Angular. I have a strong interest in Java Full Stack Development and enjoy building practical, real-world applications. I am continuously improving my skills in backend development, REST APIs, and database management, and I am looking for an opportunity to start my career as a Java / Full Stack Developer.
-I am passionate about backend and full-stack development and enjoy building real-world applications.
+I have completed my **BCA (Bachelor of Computer Applications)** along with a **Java Full Stack Development course**.  
+I am currently working on a **Hospital Management System** built using **Spring Boot, Hibernate, TypeScript, and Angular**.
+
+I have a strong interest in **Java and Full Stack Development**, with hands-on experience in building REST APIs, handling databases, and developing responsive front-end interfaces. I am continuously improving my backend skills and looking for an entry-level opportunity as a **Java / Full Stack Developer**.
 
 ---
+## 🚀 Current Project
 
+**Hospital Management System**
+- Backend: Spring Boot, Hibernate, REST APIs
+- Frontend: Angular, TypeScript, HTML, CSS
+- Database: MySQL
+- Features:
+  - User authentication & role management
+  - Patient and doctor management
+  - Appointment scheduling
+  - Medicine scheduling
+  - CRUD operations with REST APIs
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-ghadge-79598b308/)
+<br>
 [![Naukri](https://img.shields.io/badge/Naukri-0055FF?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.naukri.com/mnjuser/profile)
 <br>
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ghadgesujal347@gmail.com)
