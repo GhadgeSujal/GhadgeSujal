@@ -7,7 +7,7 @@ I am passionate about backend and full-stack development and enjoy building real
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujalghadge)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-ghadge-79598b308/)
 [![Naukri](https://img.shields.io/badge/Naukri-0055FF?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.naukri.com/mnjuser/profile)
 <br>
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ghadgesujal347@gmail.com)
