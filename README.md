@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 💫 About Me
 
 I have completed my **BCA (Bachelor of Computer Applications)** along with a **Java Full Stack Development course**.  
 I am currently working on a **Hospital Management System** built using **Spring Boot, Hibernate, TypeScript, and Angular**.
